@@ -9,4 +9,7 @@ Java 6:
 * **Rhino Scripting Engine**
 * Built-in Oracle Derby database
 * Compiler API 
+* **JAXB 2.0**
+* XML Digital Signature
 * **Semaphores**
+
