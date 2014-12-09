@@ -24,3 +24,11 @@ Java 8:
 
 * Lambda expressions
 * Streams
+* Functional interfaces
+* Default methods
+* Optional
+* Java Time
+* Nashorn
+* Base64
+* Annotations on types
+* Repeating annotations
