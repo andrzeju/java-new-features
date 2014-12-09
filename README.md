@@ -13,3 +13,14 @@ Java 6:
 * XML Digital Signature
 * **Semaphores**
 
+Java 7:
+
+* **Diamond operator**
+* **String in switch statement**
+* **Multiple Exceptions in catch statement**
+* **Underscores in number literals**
+
+Java 8:
+
+* Lambda expressions
+* Streams
