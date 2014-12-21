@@ -22,9 +22,9 @@ Java 7:
 
 Java 8:
 
-* Lambda expressions
-* Streams
-* Functional interfaces
+* **Lambda expressions**
+* **Streams**
+* **Functional interfaces**
 * Default methods
 * Optional
 * Java Time
