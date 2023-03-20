@@ -32,3 +32,28 @@ Java 8:
 * Base64
 * Annotations on types
 * Repeating annotations
+
+Java 9:
+
+* Try with resources
+* Java modules
+* Private methods in interfaces
+
+Java 10:
+* var
+
+Java 11:
+* String: isBlank, lines
+* Predicate.not()
+* Noop garbage collector
+
+Java 12-17:
+* text blocks
+* Instanceof pattern matching
+* Records
+* Sealed classes
+
+Java 21:
+* Virtual threads?
+* Record patterns
+* Pattern matching for switch?
